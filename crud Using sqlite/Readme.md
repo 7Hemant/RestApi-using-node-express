@@ -1,4 +1,4 @@
-# write restApi using these tech typescipt, sqlite3, express
+# write a restApi using these technology typescipt, sqlite3, express
 
 - Some explanations on the line of code db.all (sql, [], (err, rows) => { ... })
   - The 1st parameter is the SQL query to execute
